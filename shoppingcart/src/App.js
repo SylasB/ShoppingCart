@@ -1,9 +1,12 @@
 import './App.css';
+import NavBar from './components/NavBar';
+import Homepage from './components/Homepage';
 
 function App() {
   return (
     <div className="AppContainer">
-      <h1>Shopping Cart</h1>
+      <NavBar />
+      <Homepage />
     </div>
   );
 }
