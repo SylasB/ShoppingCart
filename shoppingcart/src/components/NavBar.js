@@ -9,6 +9,7 @@ export default function NavBar(props) {
     useEffect(()=> {
         if (target === '/' || target === '/shop' || target === '/cart') {
             navigate(target);
+            
             setTarget('');
         }
     });
