@@ -12,6 +12,8 @@ function ItemContainer(props) {
                     key = {item.id}
                     name = {item.name}
                     id = {item.id}
+                    img = {item.img}
+                    price = {item.price}
                 />
                 
             ))}

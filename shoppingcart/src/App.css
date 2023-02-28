@@ -35,6 +35,7 @@ body {
 .itemInnerContainer {
   margin: 1vw;
   padding: 0.5vw;
+  font-size: 1.5vw;
   border: 4px outset gray;
 }
 
@@ -54,6 +55,12 @@ body {
   align-content: center;
 }
 
+.priceContainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 .quantityContainer {
   display: flex;
   justify-content: center;
@@ -66,6 +73,11 @@ body {
   margin-bottom: 0.5vw;
   padding: 0.5vw;
   border: 2px solid white;
+}
+
+.lowerCount,
+.addCount {
+  width: 1vw;
 }
 
 .lowerCount:active,

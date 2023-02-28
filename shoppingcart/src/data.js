@@ -5,6 +5,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 1,
         },
         {
@@ -12,6 +13,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 2,
         },
         {
@@ -19,6 +21,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 3,
         },
         {
@@ -26,6 +29,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 4,
         },
         {
@@ -33,6 +37,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 5,
         },
         {
@@ -40,6 +45,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 6,
         },
         {
@@ -47,6 +53,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 7,
         },
         {
@@ -54,6 +61,7 @@ let data = {
             img : 'img path',
             inCart : false,
             quantity : 0,
+            price : 0.00,
             id : 8,
         },
     ] 
